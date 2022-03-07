@@ -1,7 +1,7 @@
 # Nettkurs: Kræsjkurs i Python programmering for lærere
 
 ## Hva er dette repositoriet?
-Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
+Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Simula Learning (tidl. Kodeskolen)](https://www.simulalearning.no/). Materialer som live kode vil legges ut etterhvert som kurset går. Kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
 
 # Materiale: 
 ## Dag 1
@@ -15,7 +15,7 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Løsningsforslag til bonusoppgavene for dag en** finner dere [her](dag1/Bonusoppgaver%20dag%201%20-%20Løsningsforslag.pdf).
 
-**Live kode fra dag en** finner dere [her](dag1/Kode).
+**Live kode fra dag en** blir lagt ut [her](dag1/Kode).
 
 ## Dag 2
 **Kompendiet for dag to** finner dere [her](dag2/Kompendium%20dag%202.pdf).
@@ -30,7 +30,7 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Løsningsforslag til bonusoppgavene for dag to** finner dere [her](dag2/Bonusoppgaver%20dag%202%20-%20Løsningsforslag.pdf).
 
-**Live kode fra dag to** finner dere [her](dag2/Kode).
+**Live kode fra dag to** blir lagt ut [her](dag2/Kode).
 
 # Kursets innhold:
 Dette kurset er en kræsjkurs i programmering for lærere som har liten eller ingen tidligere erfaring med programmering.
